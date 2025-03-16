@@ -60,11 +60,28 @@ Performance and Security Testing: Regularly checking the software for performanc
 Maintaining high quality is crucial to avoid costly post-release fixes, reduce technical debt, and build a trustworthy product. High standards ensure reliability, security, and a positive user experience, which are critical for long-term success and market reputation.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope sets clear boundaries on what will and will not be delivered. This clarity helps manage stakeholder expectations, prevents scope creep, and ensures that the team focuses on the agreed-upon objectives
+A WBS is a hierarchical decomposition of the entire project into smaller, manageable tasks and deliverables
+It is useful because:
+It organizes work into clearly defined sections.
+It facilitates resource allocation and scheduling.
+It provides a roadmap for tracking progress and identify
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+ A detailed schedule outlines tasks, dependencies, and timelines, making it easier to monitor progress and also helps in planning and assigning the right resources at the right times
+ How Gantt Charts Assist:
+
+Visual Timeline: Gantt charts offer a visual representation of the project schedule, showing start and end dates for each task.
+Dependency Mapping: They clearly illustrate task dependencies and critical paths, helping to pinpoint where delays may impact the overall timeline.
+Communication Tool: Gantt charts are excellent for updating stakeholders on project progress and for coordinating team efforts.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+ Poorly designed interfaces which hamper user adoption and satisfaction and also  Lack of integration between systems which lead to inconsistent data and missed insights
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Staying aware of emerging technologies allows for timely updates that keep your solution competitive
